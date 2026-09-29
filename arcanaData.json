@@ -1,0 +1,3364 @@
+[
+  {
+    "id": 1,
+    "name": "トーラスの守護(アムレート,モーザ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 1,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 1,
+            "Value": 3000.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 1,
+            "Value": 3000.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 1,
+            "Value": 3000.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 1,
+            "Value": 3000.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 1,
+            "Value": 3000.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 1,
+            "Value": 3000.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 1,
+            "Value": 4000.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 1,
+            "Value": 4000.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 1,
+            "Value": 5000.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 1,
+            "Value": 5000.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 1,
+            "Value": 6000.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 1,
+            "Value": 6000.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 1,
+            "Value": 7000.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 1,
+            "Value": 7000.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 1,
+            "Value": 8000.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 1,
+            "Value": 8000.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "リンクスの輪舞(ミミ,ハトホル)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 10,
+            "ChangeParameterType": 1,
+            "Value": 700.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 10,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          },
+          {
+            "BattleParameterType": 8,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 10,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          },
+          {
+            "BattleParameterType": 8,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 10,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          },
+          {
+            "BattleParameterType": 8,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 10,
+            "ChangeParameterType": 1,
+            "Value": 1600.0
+          },
+          {
+            "BattleParameterType": 8,
+            "ChangeParameterType": 1,
+            "Value": 2000.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 10,
+            "ChangeParameterType": 1,
+            "Value": 1700.0
+          },
+          {
+            "BattleParameterType": 8,
+            "ChangeParameterType": 1,
+            "Value": 2500.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 10,
+            "ChangeParameterType": 1,
+            "Value": 1800.0
+          },
+          {
+            "BattleParameterType": 8,
+            "ChangeParameterType": 1,
+            "Value": 3000.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 10,
+            "ChangeParameterType": 1,
+            "Value": 1900.0
+          },
+          {
+            "BattleParameterType": 8,
+            "ChangeParameterType": 1,
+            "Value": 3500.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 10,
+            "ChangeParameterType": 1,
+            "Value": 2000.0
+          },
+          {
+            "BattleParameterType": 8,
+            "ChangeParameterType": 1,
+            "Value": 4000.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ジェミニの庇翼(フレイシア,リーン,ディアン)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 1,
+            "Value": 150.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          },
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          },
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          },
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 1,
+            "Value": 2000.0
+          },
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 2,
+            "Value": 150.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 1,
+            "Value": 2500.0
+          },
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 1,
+            "Value": 3000.0
+          },
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 2,
+            "Value": 250.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 1,
+            "Value": 3500.0
+          },
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 2,
+            "Value": 300.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 1,
+            "Value": 4000.0
+          },
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 2,
+            "Value": 350.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "ウルススの心眼(マーリン,コルディ,メルティーユ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 16,
+            "ChangeParameterType": 1,
+            "Value": 150.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 16,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          },
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 16,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          },
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 16,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          },
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 16,
+            "ChangeParameterType": 1,
+            "Value": 2000.0
+          },
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 150.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 16,
+            "ChangeParameterType": 1,
+            "Value": 2500.0
+          },
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 16,
+            "ChangeParameterType": 1,
+            "Value": 3000.0
+          },
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 250.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 16,
+            "ChangeParameterType": 1,
+            "Value": 3500.0
+          },
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 300.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 16,
+            "ChangeParameterType": 1,
+            "Value": 4000.0
+          },
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 350.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "モノケロスの咆哮(サブリナ,アモール,アイビー,ニーナ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 1,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 1,
+            "Value": 5000.0
+          },
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 1,
+            "Value": 5000.0
+          },
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 1,
+            "Value": 5000.0
+          },
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 1,
+            "Value": 6000.0
+          },
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1600.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 1,
+            "Value": 7000.0
+          },
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1700.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 1,
+            "Value": 8000.0
+          },
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1800.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 1,
+            "Value": 9000.0
+          },
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1900.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 1,
+            "Value": 10000.0
+          },
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 2000.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "アンドロメダの戦剣(トロポン,オリヴィエ,プリマヴェーラ,ナターシャ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": []
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 150.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 250.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 300.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 350.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "アルビレオの宝石(ソルティーナ,フェンリル,フローレンス,ルナリンド)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": []
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 150.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 250.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 300.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 350.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "アルテミスの誓約(オフィーリア,アムレート,フローレンス)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          },
+          {
+            "BattleParameterType": 5,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          },
+          {
+            "BattleParameterType": 5,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          },
+          {
+            "BattleParameterType": 5,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 550.0
+          },
+          {
+            "BattleParameterType": 5,
+            "ChangeParameterType": 3,
+            "Value": 75.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 600.0
+          },
+          {
+            "BattleParameterType": 5,
+            "ChangeParameterType": 3,
+            "Value": 80.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 650.0
+          },
+          {
+            "BattleParameterType": 5,
+            "ChangeParameterType": 3,
+            "Value": 85.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 700.0
+          },
+          {
+            "BattleParameterType": 5,
+            "ChangeParameterType": 3,
+            "Value": 90.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 750.0
+          },
+          {
+            "BattleParameterType": 5,
+            "ChangeParameterType": 3,
+            "Value": 95.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "ピスケスの愛護(ウィーラ,ミミ,ニーナ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 3,
+            "Value": 30.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          },
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          },
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          },
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 3,
+            "Value": 75.0
+          },
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1600.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 3,
+            "Value": 80.0
+          },
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1700.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 3,
+            "Value": 85.0
+          },
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1800.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 3,
+            "Value": 90.0
+          },
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1900.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 3,
+            "Value": 95.0
+          },
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 2000.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "ミモザの抱擁（フォルティナ,オリヴィエ）",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 5.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 15.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 15.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 15.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 18.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 550.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 20.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 600.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 22.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 650.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 24.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 700.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 26.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 750.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "サーペンスの愛執(レア,アモール,アイビー)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": []
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 160.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 160.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 160.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 180.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 220.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 240.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 260.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "カニス・マヨルの遠吠(シフォン,フェンリル,モーザ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 18,
+            "ChangeParameterType": 1,
+            "Value": 300.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 18,
+            "ChangeParameterType": 1,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 18,
+            "ChangeParameterType": 1,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 18,
+            "ChangeParameterType": 1,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 18,
+            "ChangeParameterType": 1,
+            "Value": 510.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 18,
+            "ChangeParameterType": 1,
+            "Value": 520.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 18,
+            "ChangeParameterType": 1,
+            "Value": 530.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 18,
+            "ChangeParameterType": 1,
+            "Value": 540.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 18,
+            "ChangeParameterType": 1,
+            "Value": 550.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "アルファルドの猛火(ベル,フレイシア,ナターシャ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          },
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          },
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          },
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 210.0
+          },
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 71.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 220.0
+          },
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 72.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 230.0
+          },
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 73.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 240.0
+          },
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 74.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 250.0
+          },
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 75.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "アクエリアスの流星(ルサールカ,プリマヴェーラ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 14,
+            "ChangeParameterType": 1,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 14,
+            "ChangeParameterType": 1,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 14,
+            "ChangeParameterType": 1,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 14,
+            "ChangeParameterType": 1,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 14,
+            "ChangeParameterType": 1,
+            "Value": 505.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 14,
+            "ChangeParameterType": 1,
+            "Value": 510.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 14,
+            "ChangeParameterType": 1,
+            "Value": 515.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 14,
+            "ChangeParameterType": 1,
+            "Value": 520.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 14,
+            "ChangeParameterType": 1,
+            "Value": 525.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "コルウスの吐息(シヴィ,トロポン)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": []
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 15.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 15.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 15.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 16.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 17.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 18.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 19.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 13,
+            "ChangeParameterType": 3,
+            "Value": 20.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "アルゴルの武勇(ルーク,リーン)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": []
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1000.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1000.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1000.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1050.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1100.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1150.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1200.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1250.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "アウリガの知恵(アーティ,メルティーユ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": []
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 110.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 120.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 130.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 140.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 150.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "アフロディーテの親心(ヴァルリーデ,ソルティーナ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 100.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 210.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 510.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 220.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 520.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 230.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 530.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 240.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 540.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 250.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 550.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "フェリスの洞察(リシェス,ディアン)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 3,
+            "Value": 25.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 3,
+            "Value": 50.0
+          },
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 3,
+            "Value": 50.0
+          },
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 3,
+            "Value": 50.0
+          },
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 3,
+            "Value": 51.0
+          },
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 2,
+            "Value": 210.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 3,
+            "Value": 52.0
+          },
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 2,
+            "Value": 220.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 3,
+            "Value": 53.0
+          },
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 2,
+            "Value": 230.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 3,
+            "Value": 54.0
+          },
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 2,
+            "Value": 240.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 6,
+            "ChangeParameterType": 3,
+            "Value": 55.0
+          },
+          {
+            "BattleParameterType": 3,
+            "ChangeParameterType": 2,
+            "Value": 250.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "デルフィヌスの青旗(水着サブリナ,サブリナ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": []
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1000.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1000.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1000.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1050.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1100.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1150.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1200.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 9,
+            "ChangeParameterType": 1,
+            "Value": 1250.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "ボランスの鎮魂(水着モーザ,モーザ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 70.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 150.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 150.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 150.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 160.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 2,
+            "Value": 210.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 170.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 2,
+            "Value": 220.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 180.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 2,
+            "Value": 230.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 190.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 2,
+            "Value": 240.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 15,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          },
+          {
+            "BattleParameterType": 4,
+            "ChangeParameterType": 2,
+            "Value": 250.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "ムネモシネの契約(カロル,フレイシア,マーリン)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1000.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1000.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1000.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 500.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1100.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 510.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1200.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 520.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1300.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 530.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1400.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 540.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 11,
+            "ChangeParameterType": 1,
+            "Value": 1500.0
+          },
+          {
+            "BattleParameterType": 1,
+            "ChangeParameterType": 2,
+            "Value": 550.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "サジテリアスの逆光(フィアー,アムレート)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 17,
+            "ChangeParameterType": 1,
+            "Value": 150.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 17,
+            "ChangeParameterType": 1,
+            "Value": 300.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 17,
+            "ChangeParameterType": 1,
+            "Value": 300.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 17,
+            "ChangeParameterType": 1,
+            "Value": 310.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 17,
+            "ChangeParameterType": 1,
+            "Value": 320.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 17,
+            "ChangeParameterType": 1,
+            "Value": 330.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 17,
+            "ChangeParameterType": 1,
+            "Value": 340.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 17,
+            "ChangeParameterType": 1,
+            "Value": 350.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 17,
+            "ChangeParameterType": 1,
+            "Value": 360.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "ドラドの一撃(浴衣コルディ,コルディ)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 30.0
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          },
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          },
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          },
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 200.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 75.0
+          },
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 210.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 80.0
+          },
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 220.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 85.0
+          },
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 230.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 90.0
+          },
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 240.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 95.0
+          },
+          {
+            "BattleParameterType": 2,
+            "ChangeParameterType": 2,
+            "Value": 250.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "オリオンの撃鉄(アームストロング,ハトホル)",
+    "levels": [
+      {
+        "level": 1,
+        "rarityFlags": 8,
+        "rarityBonus": 0,
+        "effects": []
+      },
+      {
+        "level": 2,
+        "rarityFlags": 128,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "rarityFlags": 512,
+        "rarityBonus": 0,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "rarityFlags": 16384,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 70.0
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "rarityFlags": 32768,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 71.0
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "rarityFlags": 65536,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 72.0
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "rarityFlags": 131072,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 73.0
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "rarityFlags": 262144,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 74.0
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "rarityFlags": 524288,
+        "rarityBonus": 1,
+        "effects": [
+          {
+            "BattleParameterType": 7,
+            "ChangeParameterType": 3,
+            "Value": 75.0
+          }
+        ]
+      }
+    ]
+  }
+]

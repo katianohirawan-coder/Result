@@ -1,0 +1,6 @@
+{
+  "name": "Memento Mori Master Stat & CP Calculator",
+  "description": "Kalkulator dan simulator presisi status dasar karakter dan Combat Power (CP) Memento Mori berbasis data master ScobraCK, membedah formula murni dan bonus akun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
